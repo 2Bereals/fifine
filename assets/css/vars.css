@@ -1,0 +1,8 @@
+:root{
+    --gradient-line: linear-gradient(90deg, #000 0%, #fff 50%, #000 100%);
+    --gradient-blue: linear-gradient(90deg,rgba(0, 0, 0, 1) 0%, rgba(0, 69, 116, 1) 10%, rgba(255, 255, 255, 1) 50%, rgba(0, 69, 116, 1) 90%, rgba(0, 0, 0, 1) 100%);
+    --grey:#8d8f93;
+    --dark-grey:#494949;
+    --dark:#0f0f0f;
+    --transition: all 0.5s linear;
+}
